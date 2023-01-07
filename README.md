@@ -8,7 +8,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Html
 - Css
-- JavScript
+- JavaScript
 
 ### 🔗 Acesso ao projeto
 <p>Link do projeto https://vinicius51547.github.io/Quizz/</p>
